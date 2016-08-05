@@ -1,0 +1,1 @@
+This is the live2d source code from [http://sites.cybernoids.jp/cubism-sdk2/webgl2-1](http://sites.cybernoids.jp/cubism-sdk2/webgl2-1)
